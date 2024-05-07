@@ -1,6 +1,5 @@
 # USSD_SMS_IshyuraLoan_APP
- //remote URL CALLBACK: https://d936-41-186-78-2.ngrok-free.app/ussdsms/index.php
- //local: http://localhost:80/ussdsms/index.php
+https://github.com/kwizerisezerano/USSD_SMS_IshyuraLoan_APP
  Project Overview
 This project is a USSD-based application designed for a BRD Bursary loan management system called Ishyura Loan App. It enables users to register, send money, view paid and unpaid loan amounts, and more—all via their mobile phones. Below is a detailed overview of the project's key components and their functions.
 
